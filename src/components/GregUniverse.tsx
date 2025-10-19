@@ -35,7 +35,7 @@ function GregUniverse() {
 
       {/* X (Twitter) Button - Top Left */}
       <a
-        href="#"
+        href="https://x.com/gregcoinsol_"
         target="_blank"
         rel="noopener noreferrer"
         className="absolute top-8 left-8 z-20 bg-black hover:bg-gray-800 text-white p-4 rounded-full border-4 border-black shadow-[4px_4px_0px_0px_rgba(0,0,0,0.3)] hover:shadow-[2px_2px_0px_0px_rgba(0,0,0,0.3)] hover:translate-x-1 hover:translate-y-1 transition-all duration-150"
